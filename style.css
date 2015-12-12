@@ -1,0 +1,46 @@
+*
+{
+    margin:0;
+    padding:0;
+	line-height:1em;
+	box-sizing:border-box;
+	font-size:1em;
+}
+
+.wrapper{
+    border:1px solid;
+    width: 730px;
+    margin:0 auto;
+    padding:50px 30px 50px 30px;
+}
+
+.sect{
+	padding-bottom: 40px ;
+}
+
+.name {
+    position: relative;
+    float: right;
+    top: -40px;
+}
+
+.name > p{
+	margin:2px 0 0 0;
+}
+
+.objective {
+    clear: both;
+}
+
+.skill > div{
+	width:49%;
+	display:inline-block;
+}
+
+.place{
+    position: relative;
+    top: -18px;
+    float: right;
+    left: -88px;
+
+}
